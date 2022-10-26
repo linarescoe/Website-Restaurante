@@ -1,0 +1,91 @@
+header {
+    background-image: url(../../images/saopaulo-css/sãopaulo.jpg);
+    background-position-y: center;
+    height: 60vh;
+    margin: 0 auto;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+header div {
+    background-color: #732001;
+    height: 200px;
+    margin-left: 10%;
+    margin-right: 50%;
+    width: 30%;
+    padding-top: 20px;
+}
+
+header h1,
+p {
+    text-align: center;
+    color: white;
+}
+
+.btn1 {
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    transition: all 0.3s;
+}
+
+.btn1:hover {
+    color: #732001;
+    background-color: white;
+}
+
+.btn2 {
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    transition: all 0.3s;
+}
+
+.btn2:hover {
+    color: #732001;
+    background-color: white;
+}
+
+.btn3 {
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    transition: all 0.3s;
+}
+
+.btn3:hover {
+    color: #732001;
+    background-color: white;
+}
+
+main {
+    background-color: #A85102;
+    background-position-y: center;
+    text-align: center;
+    padding: 60px 50px;
+}
+
+
+
+
+
+
+.Lombo-Recheado-com-farofa-presunto-e-queijo-1-hex {
+    color: #F0B504;
+}
+
+.Lombo-Recheado-com-farofa-presunto-e-queijo-2-hex {
+    color: #F1A104;
+}
+
+.Lombo-Recheado-com-farofa-presunto-e-queijo-3-hex {
+    color: #F1BB76;
+}
+
+.Lombo-Recheado-com-farofa-presunto-e-queijo-4-hex {
+    color: #A85102;
+}
+
+.Lombo-Recheado-com-farofa-presunto-e-queijo-5-hex {
+    color: #732001;
+}

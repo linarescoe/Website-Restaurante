@@ -1,0 +1,97 @@
+header {
+    height: 60vh;
+    background-image: url(../images/receitas-css/fundo-receitas.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    padding: 50px 0;
+    background-position-y: center;
+}
+
+.regionais {
+    width: 28%;
+    background-color: #732001;
+    padding: 60px 50px;
+    margin-left: 10%;
+}
+
+.regionais h1 {
+    border-bottom:1px solid white ;
+    color: white;
+}
+
+.regionais p {
+    color: white;
+}
+
+.btn1 {
+    text-decoration: none;
+    border: 1px solid white;
+    color: black;
+    padding: 3px;
+    transition: all 0.3s;
+}
+
+.btn1:hover {
+    color: #732001;
+    background-color: white;
+    border: 1px solid white;
+}
+
+.btn2 {
+    text-decoration: none;
+    color: black;
+    border: 1px solid white;
+    padding: 3px;
+    transition: all 0.3s;
+}
+
+.btn2:hover {
+    color: #732001;
+    background-color: white;
+    border: 1px solid white;
+    padding: 12px;
+}
+
+.feijoada {
+    background-color: #A85102;
+}
+
+.feijoada div {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.feijoada p {
+    border-bottom: 1px solid black;
+}
+
+.coxinha {
+    background-color: #F1BB76;
+}
+
+.coxinha div {
+    text-align: center;
+    background-size: 100%;
+}
+
+.coxinha p {
+    width: 50%;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+}
+
+.brigadeiro {
+    background-color: #F1A104;
+}
+
+.brigadeiro div {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.brigadeiro p {
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,114 @@
+header {
+    height: 60vh;
+    background-image: url(../images/tipicas-css/fundo-tipicas.jpg);
+    background-position-y: center;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+.inicio {
+    background-color: #024018;
+    padding: 60px 50px;
+    margin-left: 5%;
+    margin-right: 60%;
+    width: 35%;
+}
+
+.inicio h1,p {
+    text-align: center;
+    color: white;
+}
+
+.inicio p {
+    letter-spacing: 4px;
+}
+
+
+.btn1 {
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 1px;
+    color: white;
+    transition: all 0.3s;
+    text-align: center;
+}
+
+.btn1:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border: 1px solid #ffffff;
+}
+
+.btn2 {
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 1px;
+    color: white;
+    transition: all 0.3s;
+    text-align: center;
+}
+
+.btn2:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.btn3 {
+    text-decoration: none;
+    color: #031740;
+    text-align: center;
+    border: 1px solid #031740;
+    transition: all 0.3s;
+    letter-spacing: 3px;
+    padding: 5px;
+}
+
+.btn3:hover {
+    background-color: white;
+    border: 1px solid #031740;
+    padding: 10px;
+
+}
+
+.btn4 {
+    text-decoration: none;
+    color: #031740;
+    text-align: center;
+    border: 1px solid #031740;
+    transition: all 0.3s;
+    letter-spacing: 3px;
+    padding: 5px;
+}
+
+.btn4:hover {
+    background-color: white;
+    border: 1px solid #031740;
+    padding: 10px;
+
+}
+
+.btn5 {
+    text-decoration: none;
+    color: #031740;
+    text-align: center;
+    border: 1px solid #031740;
+    transition: all 0.3s;
+    letter-spacing: 3px;
+    padding: 5px;
+}
+
+.btn5:hover {
+    background-color: white;
+    border: 1px solid #031740;
+    padding: 10px;
+
+}
+
+
+
+main {
+    text-align: center;
+    background-color: #212c42;
+    margin: 0 auto;
+}
